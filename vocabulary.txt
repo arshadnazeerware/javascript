@@ -1,0 +1,2 @@
+Assembler Compiler Interpreter Semantic Syntactic Excution Context 
+Lexical Environment Syntax Parser Conceptual Aside 
