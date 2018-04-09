@@ -1,2 +1,2 @@
-Assembler Compiler Interpreter Semantic Syntactic Excution Context 
+Assembler Compiler Interpreter Semantic Syntactic Execution Context 
 Lexical Environment Syntax Parser Conceptual Aside 
