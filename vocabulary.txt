@@ -1,2 +1,3 @@
 Assembler Compiler Interpreter JIT Semantic Syntactic Syntax 
 Execution Context Lexical Environment Syntax Parser Conceptual Aside
+Variable Constant Scope Sequential Parallel
