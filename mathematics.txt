@@ -1,0 +1,8 @@
+Quantity: Natural Numbers, Integers, Rational Numbers, Real Numbers,
+Complex Numbers
+Structure: Combinatorics, Number Theory, Group Theory, Graph Theory
+Order Theory, Algebra
+Space: Geometry, Trigonometry, Differential Geometry, Topology
+Fractal Geometry, Measure Theory
+Change: Calculus, Vector Calculus, Differential Equations,
+Dynamical Systems, Chaos Theory, Complex Analysis

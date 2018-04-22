@@ -1,8 +1,6 @@
+// Okay, let's build a system.
 'use strict'
-function loadScript(src)
+function run(data)
 {
-    document.createElement = "script";
-
-    alert("hello");
+    alert(data);
 }
-
