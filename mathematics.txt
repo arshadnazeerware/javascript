@@ -9,4 +9,5 @@ Fractal Geometry, Measure Theory
 Change: Calculus, Vector Calculus, Differential Equations,
 Dynamical Systems, Chaos Theory, Complex Analysis
 
+Arithmetic, Algebra, Geometry, Analysis
 Objects, Sets
