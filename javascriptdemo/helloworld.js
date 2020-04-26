@@ -3,4 +3,4 @@ function myfunc()
     alert("helloworld");
 }
 myfunc();
-myfunc();
+myfunc();r
